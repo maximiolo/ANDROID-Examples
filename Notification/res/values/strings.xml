@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notification</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_notification_view">Details of notification</string>
+   <string name="notify_text"> Here are the details for the notification</string> 
+<string name="text_notif">Display Notification</string>   
+
+</resources>
